@@ -11,8 +11,10 @@ step 9 : unit test can be run separtely
 step 10 : Currently test run successfully.
 
 For other desirable outcomes:
+
 change the Array value in number[ ] field (Main class)
 change the Number of Chunks in NUMBER_OF_CHUNKS (Static field in generateChunkArray Class)
+
 1)({1,2,3,4,5,6,7,8},4)
 output:[[1,2],[3,4],[5,6],[7,8]]
 
